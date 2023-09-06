@@ -122,3 +122,5 @@ alias ezsh="$VISUAL $HOME/.zshrc"
 # Source ~/.zshrc
 alias szsh="source $HOME/.zshrc"
 
+# docker containers summery
+alias dps="docker ps --format \"table {{.Names}}\t{{.State}}\t{{.RunningFor}}\t{{.Image}}\""
