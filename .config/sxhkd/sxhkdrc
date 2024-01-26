@@ -1,3 +1,6 @@
+# Screenshot
+Print
+  scrot -s
 # screen gamma
 super + alt + {9,0}
     blugon --setcurrent={"-500","+500"}
@@ -20,7 +23,7 @@ super + alt + semicolon
 
 # terminal emulator
 super + Return
-	konsole
+	urxvt
 
 # program launcher
 super + a

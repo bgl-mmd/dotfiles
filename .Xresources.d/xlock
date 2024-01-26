@@ -1,0 +1,4 @@
+!! XLock
+XLock.echokeys: on
+XLock.echokey: *
+

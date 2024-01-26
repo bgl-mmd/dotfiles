@@ -1,0 +1,4 @@
+#include ".Xresources.d/color-scheme"
+#include ".Xresources.d/urxvt"
+#include ".Xresources.d/xlock"
+
